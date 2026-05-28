@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Ashford Woo Custom Statuses
  * Description: Adds and manages custom WooCommerce order statuses from a simple admin screen.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: Jim Saunders
  * Author URI: https://ashford.cloud
  * Plugin URI: https://github.com/Ashford-Cloud/woo-commerce-custom-order-status
